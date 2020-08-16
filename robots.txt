@@ -1,0 +1,9 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /search
+Allow: /
+
+Sitemap: https://coaching-and-mentoring-online.blogspot.com/sitemap.xml
+
